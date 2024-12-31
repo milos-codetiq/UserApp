@@ -1,0 +1,37 @@
+C:\Users\Milos\Desktop\Repos\VBAI\be\VBAI.Api\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\Milos\Desktop\Repos\VBAI\be\VBAI.Api\Common\bin\Debug\net8.0\Common.dll
+C:\Users\Milos\Desktop\Repos\VBAI\be\VBAI.Api\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\Milos\Desktop\Repos\VBAI\be\VBAI.Api\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+C:\Users\Milos\Desktop\Repos\VBAI\be\VBAI.Api\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milos\Desktop\Repos\VBAI\be\VBAI.Api\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\Milos\Desktop\Repos\VBAI\be\VBAI.Api\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\Milos\Desktop\Repos\VBAI\be\VBAI.Api\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Milos\Desktop\Repos\VBAI\be\VBAI.Api\Common\obj\Debug\net8.0\Common.sourcelink.json
+C:\Users\Milos\Desktop\Repos\VBAI\be\VBAI.Api\Common\obj\Debug\net8.0\Common.dll
+C:\Users\Milos\Desktop\Repos\VBAI\be\VBAI.Api\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\Milos\Desktop\Repos\VBAI\be\VBAI.Api\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\Milos\Desktop\Repos\VBAI\be\VBAI.Api\Common\obj\Debug\net8.0\ref\Common.dll
+C:\Users\Milos\Desktop\User App\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\Milos\Desktop\User App\Common\bin\Debug\net8.0\Common.dll
+C:\Users\Milos\Desktop\User App\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\Milos\Desktop\User App\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+C:\Users\Milos\Desktop\User App\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milos\Desktop\User App\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\Milos\Desktop\User App\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\Milos\Desktop\User App\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Milos\Desktop\User App\Common\obj\Debug\net8.0\Common.dll
+C:\Users\Milos\Desktop\User App\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\Milos\Desktop\User App\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\Milos\Desktop\User App\Common\obj\Debug\net8.0\ref\Common.dll
+C:\Users\Milos\Desktop\EB Temp Repo\be\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\Milos\Desktop\EB Temp Repo\be\Common\bin\Debug\net8.0\Common.dll
+C:\Users\Milos\Desktop\EB Temp Repo\be\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\Milos\Desktop\EB Temp Repo\be\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+C:\Users\Milos\Desktop\EB Temp Repo\be\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milos\Desktop\EB Temp Repo\be\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\Milos\Desktop\EB Temp Repo\be\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\Milos\Desktop\EB Temp Repo\be\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Milos\Desktop\EB Temp Repo\be\Common\obj\Debug\net8.0\Common.dll
+C:\Users\Milos\Desktop\EB Temp Repo\be\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\Milos\Desktop\EB Temp Repo\be\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\Milos\Desktop\EB Temp Repo\be\Common\obj\Debug\net8.0\ref\Common.dll
