@@ -36,5 +36,6 @@ public static class ServiceCollectionsExtensions
 
     public static void AddCloudWatchLogger(this WebApplicationBuilder builder)
     {
+        //TODO: add logic for CW AWS Integration
     }
 }

@@ -1,0 +1,20 @@
+{
+  "facilityId": "12345",
+  "ecosystem": {
+    "building": {},
+    "grid": {},
+    "solarPanel" {
+      "": [
+        {
+          "assetId": "123"
+        },
+        {
+          "assetId": "123"
+        }
+      ]
+    }
+      
+
+
+  }
+}

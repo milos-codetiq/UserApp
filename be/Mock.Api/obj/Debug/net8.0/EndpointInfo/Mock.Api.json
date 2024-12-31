@@ -1,0 +1,85 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Mock.Api",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/sensor-data": {
+      "get": {
+        "tags": [
+          "Mock.Api"
+        ],
+        "operationId": "GetSensorData",
+        "parameters": [
+          {
+            "name": "ecosystemId",
+            "in": "query",
+            "required": true,
+            "style": "form",
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SensorData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/aggregate-data": {
+      "get": {
+        "tags": [
+          "Mock.Api"
+        ],
+        "operationId": "GetAggregateData",
+        "parameters": [
+          {
+            "name": "ecosystemId",
+            "in": "query",
+            "required": true,
+            "style": "form",
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/AggregateData"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "AggregateData": {
+        "type": "object",
+        "additionalProperties": false
+      },
+      "SensorData": {
+        "type": "object",
+        "additionalProperties": false
+      }
+    }
+  }
+}

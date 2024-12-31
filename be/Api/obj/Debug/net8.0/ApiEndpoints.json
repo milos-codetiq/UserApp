@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "Api.Features.InspectionOrders.InspectionOrderController",
+    "Method": "GetEcosystem",
+    "RelativePath": "api/dashboard/get-ecosystem",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Api.Features.InspectionOrders.EcosystemDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

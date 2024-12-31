@@ -35,3 +35,4 @@ C:\Users\Milos\Desktop\EB Temp Repo\be\Common\obj\Debug\net8.0\Common.dll
 C:\Users\Milos\Desktop\EB Temp Repo\be\Common\obj\Debug\net8.0\refint\Common.dll
 C:\Users\Milos\Desktop\EB Temp Repo\be\Common\obj\Debug\net8.0\Common.pdb
 C:\Users\Milos\Desktop\EB Temp Repo\be\Common\obj\Debug\net8.0\ref\Common.dll
+C:\Users\Milos\Desktop\EB Temp Repo\be\Common\obj\Debug\net8.0\Common.sourcelink.json

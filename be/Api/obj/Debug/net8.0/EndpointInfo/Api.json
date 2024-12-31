@@ -1,0 +1,52 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Energy Bank User App API",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/dashboard/get-ecosystem": {
+      "get": {
+        "tags": [
+          "InspectionOrder"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/EcosystemDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/EcosystemDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/EcosystemDto"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "EcosystemDto": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

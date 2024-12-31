@@ -1,7 +1,52 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Milos\\Desktop\\EB Temp Repo\\be\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6894E53-3787-4935-9437-134FFCC531BD}|Api\\Api.csproj|c:\\users\\milos\\desktop\\eb temp repo\\be\\api\\features\\dashboard\\ecosystemsample.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6894E53-3787-4935-9437-134FFCC531BD}|Api\\Api.csproj|solutionrelative:api\\features\\dashboard\\ecosystemsample.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6894E53-3787-4935-9437-134FFCC531BD}|Api\\Api.csproj|c:\\users\\milos\\desktop\\eb temp repo\\be\\api\\features\\dashboard\\getecosystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6894E53-3787-4935-9437-134FFCC531BD}|Api\\Api.csproj|solutionrelative:api\\features\\dashboard\\getecosystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E37E9B-A929-4DB6-929D-89C0A0F523EB}|Common\\Common.csproj|c:\\users\\milos\\desktop\\eb temp repo\\be\\common\\models\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E37E9B-A929-4DB6-929D-89C0A0F523EB}|Common\\Common.csproj|solutionrelative:common\\models\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E37E9B-A929-4DB6-929D-89C0A0F523EB}|Common\\Common.csproj|c:\\users\\milos\\desktop\\eb temp repo\\be\\common\\models\\aggregatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E37E9B-A929-4DB6-929D-89C0A0F523EB}|Common\\Common.csproj|solutionrelative:common\\models\\aggregatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6894E53-3787-4935-9437-134FFCC531BD}|Api\\Api.csproj|c:\\users\\milos\\desktop\\eb temp repo\\be\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6894E53-3787-4935-9437-134FFCC531BD}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6894E53-3787-4935-9437-134FFCC531BD}|Api\\Api.csproj|c:\\users\\milos\\desktop\\eb temp repo\\be\\api\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6894E53-3787-4935-9437-134FFCC531BD}|Api\\Api.csproj|solutionrelative:api\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6894E53-3787-4935-9437-134FFCC531BD}|Api\\Api.csproj|c:\\users\\milos\\desktop\\eb temp repo\\be\\api\\infrastructure\\servicecollectionsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6894E53-3787-4935-9437-134FFCC531BD}|Api\\Api.csproj|solutionrelative:api\\infrastructure\\servicecollectionsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6894E53-3787-4935-9437-134FFCC531BD}|Api\\Api.csproj|c:\\users\\milos\\desktop\\eb temp repo\\be\\api\\domainentities\\ecosystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6894E53-3787-4935-9437-134FFCC531BD}|Api\\Api.csproj|solutionrelative:api\\domainentities\\ecosystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6894E53-3787-4935-9437-134FFCC531BD}|Api\\Api.csproj|c:\\users\\milos\\desktop\\eb temp repo\\be\\api\\appsettings.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6894E53-3787-4935-9437-134FFCC531BD}|Api\\Api.csproj|solutionrelative:api\\appsettings.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6894E53-3787-4935-9437-134FFCC531BD}|Api\\Api.csproj|c:\\users\\milos\\desktop\\eb temp repo\\be\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6894E53-3787-4935-9437-134FFCC531BD}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6894E53-3787-4935-9437-134FFCC531BD}|Api\\Api.csproj|c:\\users\\milos\\desktop\\eb temp repo\\be\\api\\domainentities\\mongobaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6894E53-3787-4935-9437-134FFCC531BD}|Api\\Api.csproj|solutionrelative:api\\domainentities\\mongobaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +75,149 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EcosystemSample.json",
+              "DocumentMoniker": "C:\\Users\\Milos\\Desktop\\EB Temp Repo\\be\\Api\\Features\\Dashboard\\EcosystemSample.json",
+              "RelativeDocumentMoniker": "Api\\Features\\Dashboard\\EcosystemSample.json",
+              "ToolTip": "C:\\Users\\Milos\\Desktop\\EB Temp Repo\\be\\Api\\Features\\Dashboard\\EcosystemSample.json",
+              "RelativeToolTip": "Api\\Features\\Dashboard\\EcosystemSample.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-31T11:07:14.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SensorData.cs",
+              "DocumentMoniker": "C:\\Users\\Milos\\Desktop\\EB Temp Repo\\be\\Common\\Models\\SensorData.cs",
+              "RelativeDocumentMoniker": "Common\\Models\\SensorData.cs",
+              "ToolTip": "C:\\Users\\Milos\\Desktop\\EB Temp Repo\\be\\Common\\Models\\SensorData.cs",
+              "RelativeToolTip": "Common\\Models\\SensorData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:04:06.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AggregateData.cs",
+              "DocumentMoniker": "C:\\Users\\Milos\\Desktop\\EB Temp Repo\\be\\Common\\Models\\AggregateData.cs",
+              "RelativeDocumentMoniker": "Common\\Models\\AggregateData.cs",
+              "ToolTip": "C:\\Users\\Milos\\Desktop\\EB Temp Repo\\be\\Common\\Models\\AggregateData.cs",
+              "RelativeToolTip": "Common\\Models\\AggregateData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:04:02.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\Milos\\Desktop\\EB Temp Repo\\be\\Api\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Api\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\Milos\\Desktop\\EB Temp Repo\\be\\Api\\GlobalUsings.cs",
+              "RelativeToolTip": "Api\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:03:55.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceCollectionsExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Milos\\Desktop\\EB Temp Repo\\be\\Api\\Infrastructure\\ServiceCollectionsExtensions.cs",
+              "RelativeDocumentMoniker": "Api\\Infrastructure\\ServiceCollectionsExtensions.cs",
+              "ToolTip": "C:\\Users\\Milos\\Desktop\\EB Temp Repo\\be\\Api\\Infrastructure\\ServiceCollectionsExtensions.cs",
+              "RelativeToolTip": "Api\\Infrastructure\\ServiceCollectionsExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:03:14.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Milos\\Desktop\\EB Temp Repo\\be\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Milos\\Desktop\\EB Temp Repo\\be\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:02:43.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Milos\\Desktop\\EB Temp Repo\\be\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Milos\\Desktop\\EB Temp Repo\\be\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-31T10:58:02.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Local.json",
+              "DocumentMoniker": "C:\\Users\\Milos\\Desktop\\EB Temp Repo\\be\\Api\\appsettings.Local.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.Local.json",
+              "ToolTip": "C:\\Users\\Milos\\Desktop\\EB Temp Repo\\be\\Api\\appsettings.Local.json",
+              "RelativeToolTip": "Api\\appsettings.Local.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-31T10:57:59.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ecosystem.cs",
+              "DocumentMoniker": "C:\\Users\\Milos\\Desktop\\EB Temp Repo\\be\\Api\\DomainEntities\\Ecosystem.cs",
+              "RelativeDocumentMoniker": "Api\\DomainEntities\\Ecosystem.cs",
+              "ToolTip": "C:\\Users\\Milos\\Desktop\\EB Temp Repo\\be\\Api\\DomainEntities\\Ecosystem.cs",
+              "RelativeToolTip": "Api\\DomainEntities\\Ecosystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T10:53:04.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MongoBaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Milos\\Desktop\\EB Temp Repo\\be\\Api\\DomainEntities\\MongoBaseEntity.cs",
+              "RelativeDocumentMoniker": "Api\\DomainEntities\\MongoBaseEntity.cs",
+              "ToolTip": "C:\\Users\\Milos\\Desktop\\EB Temp Repo\\be\\Api\\DomainEntities\\MongoBaseEntity.cs",
+              "RelativeToolTip": "Api\\DomainEntities\\MongoBaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T10:52:48.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetEcosystem.cs",
+              "DocumentMoniker": "C:\\Users\\Milos\\Desktop\\EB Temp Repo\\be\\Api\\Features\\Dashboard\\GetEcosystem.cs",
+              "RelativeDocumentMoniker": "Api\\Features\\Dashboard\\GetEcosystem.cs",
+              "ToolTip": "C:\\Users\\Milos\\Desktop\\EB Temp Repo\\be\\Api\\Features\\Dashboard\\GetEcosystem.cs",
+              "RelativeToolTip": "Api\\Features\\Dashboard\\GetEcosystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T10:50:06.573Z",
+              "EditorCaption": ""
             }
           ]
         }
